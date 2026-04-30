@@ -1,0 +1,5 @@
+0=mutlu
+1=uzgun
+2=ofkeli
+3=notr
+4=saskin
